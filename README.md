@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slippo
 - 👀 I’m interested in game design
-- 🌱 I’m currently learning Java and C
+- 🌱 I’m currently learning the Godot Engine using GDScript. I have experience with Java, Python, and some C
 - 💞️ I’m looking to collaborate on anything that catches my eye
 - 📫 How to reach me: @slippo#1337 on discord
 
